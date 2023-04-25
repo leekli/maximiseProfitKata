@@ -1,0 +1,15 @@
+{
+  "name": "maximiseprofitkata",
+  "version": "1.0.0",
+  "description": "Write a function called `maximiseProfits` that takes in an array of stock prices over the course of several days and returns the single most profitable stock, with the maximum profit it could make over this time frame.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
